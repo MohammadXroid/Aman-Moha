@@ -1,0 +1,40 @@
+#main {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+#title {
+    font-size: 3vw;
+    color: brown;
+    text-shadow: 2px 2px darkgray;
+    ;
+}
+
+#img-div {
+    position: relative;
+    text-align: center;
+}
+
+#image {
+    position: relative;
+    width: 20vw;
+    max-width: 20vw;
+    height: 20vw;
+    max-height: 20vw;
+}
+
+#img-caption {
+    position: relative;
+    display: block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+#tribute-info {}
+
+#link {
+    text-decoration: none;
+    color: chocolate;
+}
